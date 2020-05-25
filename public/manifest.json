@@ -1,0 +1,16 @@
+{
+  "author": "Damian Ciftci",
+  "short_name": "Health Calculator",
+  "name": "Health Calculator React",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "type": "png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#34ace0",
+  "background_color": "#34ace0"
+}
